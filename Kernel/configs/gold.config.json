@@ -5,7 +5,7 @@
             "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
             "branch": "gold-s-oss",
             "device": "gold-s-oss",
-            "defconfig": "vendor/gold_defconfig"
+            "defconfig": "gold_defconfig"
         },
         "toolchains": [
             {
