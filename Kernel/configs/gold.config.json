@@ -4,7 +4,7 @@
             "name": "Xiaomi Redmi Note 13 5G",
             "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
             "branch": "gold-s-oss",
-            "device": "gold-s-oss",
+            "device": "gold",
             "defconfig": "gold_defconfig"
         },
         "toolchains": [
@@ -59,7 +59,7 @@
             "use": true,
             "release": true
         },
-        "enableKernelSU": true,
+        "enableKernelSU": false,
         "enableLXC": false
     }
 ]
